@@ -66,7 +66,7 @@ Title.Size = UDim2.new(1, -60, 1, 0)
 Title.Position = UDim2.new(0, 16, 0, 0)
 Title.BackgroundTransparency = 1
 Title.Font = Enum.Font.GothamBold
-Title.Text = "Grow A Garden 2 <font color='rgb(74, 222, 128)'>Item Duplicator</font>"
+Title.Text = "Grow A Garden 2 <font color='rgb(74, 222, 128)'>Item Dupe</font>"
 Title.RichText = true
 Title.TextColor3 = Color3.fromRGB(255, 255, 255)
 Title.TextSize = 13
@@ -130,7 +130,7 @@ ModuleTitle.Size = UDim2.new(0, 200, 0, 18)
 ModuleTitle.Position = UDim2.new(0, 12, 0, 9)
 ModuleTitle.BackgroundTransparency = 1
 ModuleTitle.Font = Enum.Font.GothamBold
-ModuleTitle.Text = "Start Duplicating Items"
+ModuleTitle.Text = "Start Duping Items"
 ModuleTitle.TextColor3 = Color3.fromRGB(243, 244, 246)
 ModuleTitle.TextSize = 12
 ModuleTitle.TextXAlignment = Enum.TextXAlignment.Left
